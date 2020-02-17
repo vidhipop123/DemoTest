@@ -8,7 +8,7 @@ public class DemoGit
 		
 		System.out.println("vidhi");
 		
-		System.out.println("poptani");
+		System.out.println("poptani vidhi");
 	
 	
 	}
